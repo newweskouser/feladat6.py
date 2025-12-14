@@ -1,0 +1,1 @@
+# feladat6.py
